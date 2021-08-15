@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+}
+header{
+	background-color:#FEFCED;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: ;
+
+}
+h1,main,footer{font-family: 'STIX Two Text', serif;}
+
+header h1{
+	color:#5C8860 ;
+	font-family: helvetica,arial, sans-serif;
+}
+main{
+	background-color:#FFFEFC ;
+	font-family: helvetica,arial, sans-serif;
+}
+header img{ 
+ border-radius: 150px ; 
+ border: 5px solid #5C8860;
+ font-family: helvetica,arial, sans-serif;}
+
+ footer{ background-color: #FFFEFC; 
+ font-family: helvetica,arial, sans-serif;}
