@@ -19,14 +19,17 @@ main{
 }
 header img{ 
  border-radius: 150px ; 
- border: 5px solid #5C8860;}
+ border: 5px solid #5C8860;
+}
 
 main{max-width: 800px;
 margin: 0 auto;
 padding: 0 20px 20px 100px;
 }
 
-main img{max-width: 100%;}
+main img{max-width: 100%;
+border-radius: 30px;
+border: 5px solid #5C8860;}
 
 h2{font-size: 35px;
 color:#5C8860 ;}
