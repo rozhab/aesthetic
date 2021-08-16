@@ -5,23 +5,45 @@ header{
 	background-color:#FEFCED;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: ;
+	padding-bottom:50px ;
 
 }
 h1,main,footer{font-family: 'STIX Two Text', serif;}
 
 header h1{
 	color:#5C8860 ;
-	font-family: helvetica,arial, sans-serif;
+	font-size: 40px;
 }
 main{
 	background-color:#FFFEFC ;
-	font-family: helvetica,arial, sans-serif;
 }
 header img{ 
  border-radius: 150px ; 
- border: 5px solid #5C8860;
- font-family: helvetica,arial, sans-serif;}
+ border: 5px solid #5C8860;}
 
- footer{ background-color: #FFFEFC; 
- font-family: helvetica,arial, sans-serif;}
+main{max-width: 800px;
+margin: 0 auto;
+padding: 0 20px 20px 100px;
+}
+
+main img{max-width: 100%;}
+
+h2{font-size: 35px;
+color:#5C8860 ;}
+
+p{ font-size: 20px ; 
+color: #5C8860;}
+
+a{ color: #5C8860; }
+
+a:hover{ 
+	color:#264527;
+ }
+ ul{color:#5C8860 ;}
+ ol{color:#5C8860 ;}
+
+  footer{ background-color: #FEFCED; 
+text-align: center;
+padding: 10px;
+ }
+ footer p{margin: 0}
