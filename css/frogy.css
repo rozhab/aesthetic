@@ -20,7 +20,7 @@ main{
 }
 header img{
  border-radius: 150px ;
- border: 5px solid #5C8860;
+ border: 5px solid #517054;
 }
 
 main{max-width: 800px;
@@ -30,21 +30,21 @@ padding: 0 20px 20px 100px;
 
 main img{max-width: 100%;
 border-radius: 30px;
-border: 5px solid #5C8860;}
+border: 5px solid #517054;}
 
 h2{font-size: 35px;
 color:#5C8860 ;}
 
 p{ font-size: 20px ;
-color: #5C8860;}
+color: #517054;}
 
-a{ color: #5C8860; }
+a{ color: #517054; }
 
 a:hover{
 	color:#264527;
  }
- ul{color:#5C8860 ;}
- ol{color:#5C8860 ;}
+ ul{color:#517054 ;}
+ ol{color:#517054 ;}
 
   footer{ background-color: #FEFCED;
 text-align: center;
