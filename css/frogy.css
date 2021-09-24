@@ -1,13 +1,13 @@
 html{
-  background-color:#FBF4DF;
+  background-color:#F5FFEB;
 }
 
 body{
 	margin: 0;
-	background-color:FFFAEA ;
+
 }
 header{
-	background-color:#FFFAEA;
+	background-color:#8FA78B;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom:50px ;
@@ -16,16 +16,16 @@ header{
 h1,main,footer{font-family: 'STIX Two Text', serif;}
 
 header h1{
-	color:#517054 ;
+	color:#214E34 ;
 	font-size: 40px;
 }
 main{
-	background-color:#F9F3E2 ;}
+	background-color:#F5FFEB ;}
 
 
 header img{
  border-radius: 150px ;
- border: 5px solid #517054;
+ border: 5px solid #DAFEB7;
 }
 
 main{max-width: 800px;
@@ -35,25 +35,24 @@ padding: 0 20px 20px 100px;
 
 main img{max-width: 100%;
 border-radius: 30px;
-border: 5px solid #517054;}
+border: 5px solid #214E34;}
 
 h2{font-size: 35px;
-color:#517054 ;}
+color:#214E34 ;}
 
 p{ font-size: 20px ;
-color: #517054;}
+color: #214E34;}
 
-a{ color: #517054; }
+a{ color: #214E34; }
 
 a:hover{
 	color:#968965;
  }
- ul{color:#517054 ;}
- ol{color:#517054 ;}
+ ul{color:#214E34 ;}
+ ol{color:#214E34 ;}
 
-  footer{ background-color: #FFFAEA;
+  footer{ background-color: #8FA78B;
 text-align: center;
-padding: 10px;
+padding: 5px;
  }
  footer p{margin: 0}
- body{background-color:FFFAEA ;}
