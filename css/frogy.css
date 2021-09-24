@@ -1,3 +1,12 @@
+::-webkit-scrollbar {
+	width: 15px;
+	background: #DAFEB7;
+
+}
+::-webkit-scrollbar-thumb{
+	background: #53694F;
+	border-radius: 150px;
+}
 html{
   background-color:#F5FFEB;
 }
@@ -46,7 +55,7 @@ color: #214E34;}
 a{ color: #214E34; }
 
 a:hover{
-	color:#968965;
+	color:#EFD0CA;
  }
  ul{color:#214E34 ;}
  ol{color:#214E34 ;}
