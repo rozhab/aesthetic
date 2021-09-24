@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	background-color:FFFEFC ;
 }
 header{
 	background-color:#FEFCED;
@@ -17,8 +18,8 @@ header h1{
 main{
 	background-color:#FFFEFC ;
 }
-header img{ 
- border-radius: 150px ; 
+header img{
+ border-radius: 150px ;
  border: 5px solid #5C8860;
 }
 
@@ -34,19 +35,20 @@ border: 5px solid #5C8860;}
 h2{font-size: 35px;
 color:#5C8860 ;}
 
-p{ font-size: 20px ; 
+p{ font-size: 20px ;
 color: #5C8860;}
 
 a{ color: #5C8860; }
 
-a:hover{ 
+a:hover{
 	color:#264527;
  }
  ul{color:#5C8860 ;}
  ol{color:#5C8860 ;}
 
-  footer{ background-color: #FEFCED; 
+  footer{ background-color: #FEFCED;
 text-align: center;
 padding: 10px;
  }
  footer p{margin: 0}
+ body{background-color:FFFEFC ;}
